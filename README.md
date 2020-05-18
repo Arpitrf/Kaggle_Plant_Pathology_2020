@@ -1,3 +1,9 @@
+project url:
+https://www.kaggle.com/c/plant-pathology-2020-fgvc7/overview
+
+Arpit's colab url:
+https://colab.research.google.com/drive/1XAwCLRV947r3K3eZnoqWfiO0I5ySLMNq?usp=sharing#scrollTo=OVkwHdV28UaY
+
 Objectives:
 1. Classify if healthy or not
 2. If not, figure out which disease
